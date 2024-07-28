@@ -1,6 +1,9 @@
 # calendar-from-file-shell
 Shell script that prints out a month calendar with a highlighted day for each date found in a text file.
 
+See walkthrough on my channel!
+[https://youtu.be/WzXaLLmmJXw](https://youtu.be/WzXaLLmmJXw)
+
 ## Create your file
 Either clone this repo or create your own file. 
 
